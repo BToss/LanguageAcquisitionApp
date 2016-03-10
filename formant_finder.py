@@ -1,3 +1,15 @@
+#TODO: translate from python to java
+
+#Step 1 Person produces vowel as input and is passed into Kiss FFT
+
+#Step 2 is utilizing the c library Kiss FFT
+#go here to get it: https://github.com/itdaniher/kissfft
+#FT takes input and produces values
+
+#output of 2 is passed into 3, file it as FFT result(see TODO below)
+
+#Step 3 (The only written code currently): Extract important formants from spectra recived as output from step 2
+
 formants_wanted = 6
 #TODO: Set buffer zone to the expected width of a formant/2
 buffer_zone = 1
@@ -21,4 +33,8 @@ for i in range(formants_wanted):
         removal_index += 1
 print "all formants found = " + str(formants)
 formants_we_care_about = sorted(formants)[1:4]
-print "Formants we care about = " + str(formants_we_care_about)
+print "Formants we care about = " + str(formants_we_care_about)GH
+
+#TODO: step 4(Bark Difference Metric): Normalizes the vowel formants so different speakers register the same vowels
+#zi = 26.81/((1+1960)/Fi)-0.53 aaaaaannnnnd then the output of that, the x axis is z3-z2  and y axis is z3-z1
+#Step 5 is plotting matrix on graph utilizing above
