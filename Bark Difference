@@ -17,7 +17,7 @@ public class BarkDifference {
     
     public static void main(String[] args) {
         for(int i = 0; i < 3; i++){
-            zarray[i] = 26.81/(1+ (1960/ farray[i]))-0.53;
+            zarray[i] = (26.81/(1+ (1960/ farray[i])))-0.53;
         }
         x = zarray[2] - zarray[1];
         y = zarray[2] - zarray[0];
