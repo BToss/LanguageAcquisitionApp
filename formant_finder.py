@@ -36,5 +36,5 @@ formants_we_care_about = sorted(formants)[1:4]
 print "Formants we care about = " + str(formants_we_care_about)GH
 
 #TODO: step 4(Bark Difference Metric): Normalizes the vowel formants so different speakers register the same vowels
-#zi = 26.81/((1+1960)/Fi)-0.53 aaaaaannnnnd then the output of that, the x axis is z3-z2  and y axis is z3-z1
+#zi = (26.81/((1+1960)/Fi))-0.53 aaaaaannnnnd then the output of that, the x axis is z3-z2  and y axis is z3-z1
 #Step 5 is plotting matrix on graph utilizing above
