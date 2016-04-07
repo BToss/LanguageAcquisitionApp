@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="D:\aladin\AndroidStudioProjects\AudioAnalyzer\sink.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="sink.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4696">
+      <stop
+         style="stop-color:#00ff34;stop-opacity:1;"
+         offset="0"
+         id="stop4698" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop4700" />
+    </linearGradient>
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4770"
+       x="-0.18000000000000005"
+       y="-0.18000000000000005"
+       width="1.3600000000000001"
+       height="1.3600000000000001">
+      <feOffset
+         dy="0"
+         dx="0"
+         id="feOffset4772" />
+      <feGaussianBlur
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur4774" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="flood"
+         id="feFlood4776" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite4778" />
+      <feBlend
+         in="blur"
+         in2="composite"
+         mode="normal"
+         id="feBlend4780" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="31.697775"
+     inkscape:cy="50.2298"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3072"
+     inkscape:window-height="1665"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-956.36218)">
+    <g
+       id="g4782">
+      <rect
+         y="956.36218"
+         x="0"
+         height="96"
+         width="96"
+         id="rect4741"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="969.05225"
+         x="12.690041"
+         height="70.619919"
+         width="70.619919"
+         id="rect4741-5"
+         style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4770)" />
+    </g>
+    <g
+       id="g4786"
+       transform="translate(136.76716,-14.573106)">
+      <rect
+         y="991.46887"
+         x="-115.94306"
+         height="56.189735"
+         width="2.6516504"
+         id="rect4143"
+         style="fill:#000000;stroke:none" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="59.753326"
+         x="1045.007"
+         height="56.189735"
+         width="2.6516504"
+         id="rect4143-7"
+         style="fill:#000000;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4162"
+         d="m -113.25072,1045.5321 6.95851,-36.2102 2.8269,30.2596 2.60945,-14.0536 3.587983,13.927 7.393427,-40.7681 3.587986,38.2359 4.022893,-12.1544 c 0,0 5.762524,16.9656 5.762524,16.4592 0,-0.5065 2.174536,-5.5709 2.174536,-5.5709 l 4.131621,6.5837"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.71674991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="-2.2252125"
+         d="m -107.22454,1001.0535 -7.70837,0 -7.70836,0 3.85418,-6.67562 3.85418,-6.67564 3.85418,6.67564 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="4.4504247"
+         sodipodi:r1="8.9008503"
+         sodipodi:cy="996.60309"
+         sodipodi:cx="-114.93291"
+         sodipodi:sides="3"
+         id="path4164"
+         style="fill:#000000;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:type="star" />
+      <path
+         inkscape:transform-center-x="-2.2252371"
+         transform="matrix(0,1,-1,0,977.15642,1077.7466)"
+         inkscape:transform-center-y="4.0735693e-005"
+         d="m -24.363979,1045.4007 -7.708363,0 -7.708362,0 3.854181,-6.6756 3.854181,-6.6756 3.854181,6.6756 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="4.4504247"
+         sodipodi:r1="8.9008503"
+         sodipodi:cy="1040.9503"
+         sodipodi:cx="-32.072342"
+         sodipodi:sides="3"
+         id="path4164-7"
+         style="fill:#000000;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
