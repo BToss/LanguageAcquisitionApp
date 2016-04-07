@@ -5,6 +5,9 @@
 #Step 2 is utilizing the c library Kiss FFT
 #go here to get it: https://github.com/itdaniher/kissfft
 #FT takes input and produces values
+# AudioAnalyzer/app/src/main/jni/AudioAnalyzerHelperJNI.cpp 
+# The path above is to the windowing functions present in the AudioAnalyzer app. There isn't a Gaussian, but we can use their model
+# to write one.
 
 #output of 2 is passed into 3, file it as FFT result(see TODO below)
 
